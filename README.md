@@ -87,3 +87,15 @@ We created a custom dataset of smartphone and remote control images with diverse
 
 ---
 
+🚀 How to Run
+1. Clone the repository
+git clone https://github.com/Alankrutha18/Transfer-Learning-Image-Classification.git
+
+2. Install dependencies:
+pip install tensorflow beautifulsoup4 pillow matplotlib
+
+3. Run the training script:
+python scripts/train_model.py
+
+
+
