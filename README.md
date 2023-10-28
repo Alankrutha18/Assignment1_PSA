@@ -97,5 +97,11 @@ pip install tensorflow beautifulsoup4 pillow matplotlib
 3. Run the training script:
 python scripts/train_model.py
 
+----
+
+📌 Future Work
+Extend the project to multi-class classification.
+Explore additional pre-trained models like InceptionV3.
+Evaluate real-time applications on resource-constrained devices.
 
 
